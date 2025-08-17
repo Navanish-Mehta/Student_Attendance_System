@@ -104,16 +104,24 @@
 ## 📱 Screenshots
 
 ### 🏠 Homepage Dashboard
-![Dashboard](screenshots/dashboard.png)
+
+<img width="1920" height="1080" alt="Screenshot (281)" src="https://github.com/user-attachments/assets/2dcbc821-b3e4-48dd-95e1-6e59068dee7b" />
+
 
 ### 👥 Students Management
-![Students Page](screenshots/students.png)
+
+<img width="1920" height="1080" alt="Screenshot (282)" src="https://github.com/user-attachments/assets/8460e06b-2ce1-401e-8656-c9085ade95c8" />
+
 
 ### 📚 Classes Management  
-![Classes Page](screenshots/classes.png)
+
+<img width="1920" height="1080" alt="Screenshot (283)" src="https://github.com/user-attachments/assets/6de86f9b-e776-470d-846f-19d7f8b9db05" />
+
 
 ### ✅ Attendance Tracking
-![Attendance Page](screenshots/attendance.png)
+
+<img width="1920" height="1080" alt="Screenshot (284)" src="https://github.com/user-attachments/assets/714a54d6-c404-4c23-8949-9775519f563e" />
+
 
 ## 🌐 API Endpoints
 
@@ -180,9 +188,6 @@ Student_Attendance_System/
 │   ├── tailwind.config.js  # TailwindCSS configuration
 │   └── postcss.config.js   # PostCSS configuration
 ├── package.json            # Root dependencies
-├── start.bat              # Windows startup script
-├── start.ps1              # PowerShell startup script
-├── test-backend.js        # Backend testing script
 └── README.md              # Project documentation
 ```
 
@@ -328,10 +333,10 @@ If you encounter any issues or have questions:
 
 **⭐ Star this repository if you find it helpful!**
 
-**🔗 Connect with us**: [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourusername)
+**🔗 Connect with us**: [GitHub](https://github.com/Navanish-Mehta) | [LinkedIn](https://linkedin.com/in/navanish-mehta)
 
-**📧 Contact**: your.email@example.com
+**📧 Contact**: navanishmehta@gmail.com
 
 ---
 
-*Made with ❤️ for educational institutions worldwide*
+*Made with ❤️ for educational institutions worldwide By Navanish Mehta💕*
